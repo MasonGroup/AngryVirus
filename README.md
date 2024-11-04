@@ -5,7 +5,7 @@
 ## 🖤 Virus Overview
 
 **AngryVirus** is a highly dangerous virus designed to be a nightmare for any system it infects!  
-This virus includes advanced features that compromise the stability and security of the target device:
+This virus builds on the foundations of the original [Smil virus](https://github.com/MasonGroup/Smil) as a **second installment** in the series, with even more advanced features that threaten the stability and security of the target device:
 
 - **BypassUAC** 🕸️: Bypasses User Account Control (UAC) effortlessly to gain control over the system.
 - **Rootkit** 💀: Embeds itself deep into the system, making it extremely difficult to detect or remove.
@@ -21,6 +21,4 @@ This virus is **closed-source** and **extremely dangerous**. The creator, **ABOL
 
 ---
 
-**CodedBy**: ABOLHB
-
----
+**Coded By**: ABOLHB
